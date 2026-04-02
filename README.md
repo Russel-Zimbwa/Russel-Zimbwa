@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m @Russel-Zimbwa
 
 - 👀 I’m passionate about software engineering, data science, and artificial intelligence.
-- 🌱 Currently sharpening my skills in C++, Python, Arduino-based projects, Flutter, and Android Studio.
+- 🌱 Currently sharpening my skills in C++, Python, Arduino-based projects, and Java.
 - 💞️ I’m open to collaborating on innovative tech projects, especially those that create real impact.
 - 📫 Reach me at:  
   - 📧 Email: russelzimbwa@gmail.com  
   - 💼 LinkedIn: [www.linkedin.com/in/russel-zimbwa-993417327](https://www.linkedin.com/in/russel-zimbwa-993417327)
-- 🛠️ Tools I use: Visual Studio Code, GitHub, Arduino IDE, Linux, Flutter, and Android Studio.
+- 🛠️ Tools I use: Visual Studio Code, GitHub, Arduino IDE, Linux.
 - ⚡ Fun fact: I once built a Morse code system using just a button and an LCD screen — no keyboard needed!
 
 ---
